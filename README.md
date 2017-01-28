@@ -10,7 +10,7 @@ Time spent: **0.5** hours spent in total
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/kesongxie/CodePath-Week1-Lab-Tumblr/tree/master/CodePath-Lab1-Thumblr/gif-demo' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/kesongxie/CodePath-Week1-Lab-Tumblr/blob/master/CodePath-Lab1-Thumblr/gif-demo/Tumblr-Lab-1-Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
