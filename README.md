@@ -1,9 +1,22 @@
-# CodePath-Week1-Lab-Tumblr
+# CodePath-Lab-Tumblr
 
 **Tumblr** is a movies app using the Tumblr api.
 
-Time spent: **0.5** hours spent in total
+Time spent: **3** hours spent in total
 
+
+The following **required** functionality is completed:
+
+- [x] Hook up the Tumblr API
+- [x] Build the Main Photo Feed
+- [x] Build the Details Screen
+- [x] Add Pull to Refresh
+- [x] Infinite Scrolling
+
+The following **optional** features are implemented:
+
+- [x] Add Avatar and Publish Dates.
+- [x] Zoomable Photo View
 
 
 ## Video Walkthrough 
