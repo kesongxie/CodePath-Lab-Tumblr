@@ -1,0 +1,4 @@
+use_frameworks!
+target 'CodePath-Lab1-Thumblr' do
+	pod 'AFNetworking'
+end
